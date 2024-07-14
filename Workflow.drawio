@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T23:08:06.368Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="6XSfzDQAY8EV_wKk9qr1" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-14T23:35:37.066Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YG5CSNsH_3piqW9RU0ep" version="24.6.5" type="github">
   <diagram name="Sivu-1" id="ExaNvQKYzJZNf2Spykjg">
     <mxGraphModel dx="1570" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,16 +7,55 @@
         <mxCell id="nX1czes53wwI01U9ZCOa-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nX1czes53wwI01U9ZCOa-1" target="nX1czes53wwI01U9ZCOa-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nX1czes53wwI01U9ZCOa-1" value="Complete the AI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="nX1czes53wwI01U9ZCOa-1" value="AI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6ecSsVZB28m-YF-DiI0J-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nX1czes53wwI01U9ZCOa-4" edge="1">
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nX1czes53wwI01U9ZCOa-4" target="C3OmPF9B5gbBKsYHGIpi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nX1czes53wwI01U9ZCOa-4" value="Matrices, vectors and&lt;div&gt;Tensors with numpy&lt;div&gt;CLASSROOM&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-4" target="C3OmPF9B5gbBKsYHGIpi-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-4" value="Building&lt;div&gt;until ex. 11&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="C3OmPF9B5gbBKsYHGIpi-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="760" as="targetPoint" />
+            <mxPoint x="380" y="630" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nX1czes53wwI01U9ZCOa-4" value="testi" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-9" target="nX1czes53wwI01U9ZCOa-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-9" target="C3OmPF9B5gbBKsYHGIpi-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-9" target="C3OmPF9B5gbBKsYHGIpi-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-9" value="Setting Up&lt;div&gt;CLASSROOM&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-11" target="C3OmPF9B5gbBKsYHGIpi-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-11" value="&lt;div&gt;NN&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-13" value="Jatka Building" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-17" value="&lt;div&gt;&lt;div&gt;Anaconda&lt;/div&gt;numpy&lt;div&gt;pandas&lt;/div&gt;&lt;div&gt;matplotlib&lt;br&gt;&lt;/div&gt;&lt;div&gt;seaborn&lt;/div&gt;&lt;div&gt;sklearn&lt;/div&gt;&lt;div&gt;torch&lt;/div&gt;&lt;div&gt;plotly&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="5" width="258" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-19" value="VSC&lt;div&gt;Python&lt;/div&gt;&lt;div&gt;Jupyter&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-28" value="IM2&lt;div&gt;Chain rule&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="560" width="230" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
