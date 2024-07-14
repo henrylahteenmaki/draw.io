@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T22:56:51.110Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="IOBMkEYZ_0tDosbeE0Hr" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-14T23:03:26.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SC2S5KfxuoQfCz5Q1SKy" version="24.6.5" type="github">
   <diagram name="Sivu-1" id="ExaNvQKYzJZNf2Spykjg">
     <mxGraphModel dx="1570" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,20 +10,13 @@
         <mxCell id="nX1czes53wwI01U9ZCOa-1" value="Complete the AI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6ecSsVZB28m-YF-DiI0J-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nX1czes53wwI01U9ZCOa-4" target="6ecSsVZB28m-YF-DiI0J-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6ecSsVZB28m-YF-DiI0J-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nX1czes53wwI01U9ZCOa-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nX1czes53wwI01U9ZCOa-4" value="dfdf" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="620" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QxgKjtFP41bFqYoSqLQ5-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6ecSsVZB28m-YF-DiI0J-1" target="QxgKjtFP41bFqYoSqLQ5-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6ecSsVZB28m-YF-DiI0J-1" value="seuraava" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QxgKjtFP41bFqYoSqLQ5-1" value="seuraava" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
