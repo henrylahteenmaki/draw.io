@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T15:28:20.026Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1nO0nzp73oCcBZab7aW_" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T15:30:40.006Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="S6GN9nUB_2yTgeoKQ4WC" version="24.6.5" type="github">
   <diagram name="Sivu-1" id="ExaNvQKYzJZNf2Spykjg">
-    <mxGraphModel dx="2243" dy="2585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1308" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,8 +151,8 @@
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-69" target="C3OmPF9B5gbBKsYHGIpi-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-69" value="Do you want to study more about AI, ML and DL?&lt;div&gt;If there are enough interest,&amp;nbsp; the teacher is planning to create the following courses&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="1310" width="310" height="80" as="geometry" />
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-69" value="Do you want to study more about AI, ML and DL?&lt;div&gt;If there is enough interest, Xamk is planning to create the following courses&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="158.5" y="1310" width="305" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-71" target="C3OmPF9B5gbBKsYHGIpi-75">
           <mxGeometry relative="1" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry x="165" y="1573.5" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-77" value="Deep Learning with PyTorch&lt;div&gt;&amp;nbsp;a practical and coding-focused introduction to deep learning using the PyTorch framework&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="167.5" y="1693.5" width="285" height="70" as="geometry" />
+          <mxGeometry x="173.75" y="1693.5" width="272.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-85" value="Next steps" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="-150" width="120" height="80" as="geometry" />
