@@ -1,27 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T11:53:45.243Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_KjmzAKUJJxTAZh8QCfm" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T15:06:24.570Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2_HsgaipzBbJMQOZbmFP" version="24.6.5" type="github">
   <diagram name="Sivu-1" id="ExaNvQKYzJZNf2Spykjg">
-    <mxGraphModel dx="1570" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1653" dy="2212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nX1czes53wwI01U9ZCOa-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nX1czes53wwI01U9ZCOa-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="290" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nX1czes53wwI01U9ZCOa-1" target="C3OmPF9B5gbBKsYHGIpi-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nX1czes53wwI01U9ZCOa-1" value="AI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="C3OmPF9B5gbBKsYHGIpi-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="350" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="nX1czes53wwI01U9ZCOa-1" value="Introduction to AI&lt;div&gt;SELF-STUDY&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="321" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-4" target="C3OmPF9B5gbBKsYHGIpi-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-4" value="Building&lt;div&gt;until ex. 11&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-4" target="C3OmPF9B5gbBKsYHGIpi-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-4" value="Building AI&lt;div&gt;Chapters 1, 2 and 3&lt;/div&gt;&lt;div&gt;SELF-STUDY&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="321" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="C3OmPF9B5gbBKsYHGIpi-11">
           <mxGeometry relative="1" as="geometry">
@@ -33,39 +29,96 @@
             <mxPoint x="380" y="110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="C3OmPF9B5gbBKsYHGIpi-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="80" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="C3OmPF9B5gbBKsYHGIpi-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="80" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-11" target="C3OmPF9B5gbBKsYHGIpi-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-11" value="&lt;div&gt;NN&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-11" value="&lt;div&gt;Neural Networks - 3Blue1Brown&lt;/div&gt;&lt;div&gt;SELF-STUDY&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-13" value="Jatka Building" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-13" value="Building AI&lt;div&gt;Chapters 4 and 5&lt;/div&gt;&lt;div&gt;SELF-STUDY&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-17" value="&lt;div&gt;&lt;div&gt;Anaconda&lt;/div&gt;numpy&lt;div&gt;pandas&lt;/div&gt;&lt;div&gt;matplotlib&lt;br&gt;&lt;/div&gt;&lt;div&gt;seaborn&lt;/div&gt;&lt;div&gt;sklearn&lt;/div&gt;&lt;div&gt;torch&lt;/div&gt;&lt;div&gt;torchvision&lt;br&gt;&lt;/div&gt;&lt;div&gt;torchaudio&lt;br&gt;&lt;/div&gt;&lt;div&gt;plotly&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="5" width="258" height="150" as="geometry" />
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-28" target="C3OmPF9B5gbBKsYHGIpi-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-19" value="VSC&lt;div&gt;Python&lt;/div&gt;&lt;div&gt;Jupyter&lt;/div&gt;&lt;div&gt;Git&lt;/div&gt;&lt;div&gt;GitHub&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="40" width="160" height="80" as="geometry" />
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-28" value="&lt;div&gt;Insinöörin matematiikka 2&lt;/div&gt;&lt;div&gt;Chain rule&lt;/div&gt;&lt;div&gt;Funktion suurin ja pienen arvo&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="266" y="560" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-28" value="IM2&lt;div&gt;Chain rule&lt;/div&gt;&lt;div&gt;Funktion suurin ja pienen arvo&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="265" y="560" width="230" height="80" as="geometry" />
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-30" value="Setting Up&lt;div&gt;CLASSROOM&amp;nbsp;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-31" value="Matrices, vectors and&lt;div&gt;Tensors&lt;div&gt;CLASSROOM&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-33" value="Setting up your&lt;div&gt;laptop environment&lt;/div&gt;&lt;div&gt;&lt;div&gt;CLASSROOM&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-36" target="C3OmPF9B5gbBKsYHGIpi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-36" target="C3OmPF9B5gbBKsYHGIpi-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-36" target="C3OmPF9B5gbBKsYHGIpi-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-36" value="Matrices, vectors&amp;nbsp;&lt;div&gt;and t&lt;span style=&quot;background-color: initial;&quot;&gt;ensors&lt;/span&gt;&lt;div&gt;CLASSROOM&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="321" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-38" value="&lt;div&gt;Anaconda&lt;/div&gt;numpy&lt;div&gt;pandas&lt;/div&gt;&lt;div&gt;matplotlib&lt;br&gt;&lt;/div&gt;&lt;div&gt;seaborn&lt;/div&gt;&lt;div&gt;sklearn&lt;/div&gt;&lt;div&gt;torch&lt;/div&gt;&lt;div&gt;torchvision&lt;br&gt;&lt;/div&gt;&lt;div&gt;torchaudio&lt;br&gt;&lt;/div&gt;&lt;div&gt;plotly&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-10" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-39" value="VSC&lt;div&gt;Python&lt;/div&gt;&lt;div&gt;Jupyter&lt;/div&gt;&lt;div&gt;Git&lt;/div&gt;&lt;div&gt;GitHub&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-40" value="&lt;div&gt;&lt;div&gt;CLASSROOM&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-41" value="SELF-STUDY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-42" value="MATH TOPICS&amp;nbsp;&lt;div&gt;to review before continuing&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-45" value="numpy&lt;div&gt;pytorch&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="521" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-47" value="&lt;div&gt;Theory:&lt;/div&gt;Dot product&lt;div&gt;Matrix multiplication&lt;/div&gt;&lt;div&gt;Linear combination&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="151" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-49" value="Opportunity to ask during Insinöörin matematiikka 2" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="521" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="C3OmPF9B5gbBKsYHGIpi-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="441" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-52" value="Opportunity to ask during Insinöörin matematiikka 2" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="521" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-53" value="&lt;div&gt;Calculus of Neural Networks:&lt;/div&gt;&lt;div&gt;gradient descent&lt;br&gt;&lt;/div&gt;&lt;div&gt;Chain rule&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="576" y="560" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="C3OmPF9B5gbBKsYHGIpi-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="441" y="880" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-56" value="Opportunity to ask during Insinöörin matematiikka 2" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="521" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="C3OmPF9B5gbBKsYHGIpi-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="441" y="740" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-58" value="Opportunity to ask during Insinöörin matematiikka 2" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="521" y="700" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
