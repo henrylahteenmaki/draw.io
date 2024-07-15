@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T15:27:05.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="G61Y9d3z7PbVJjpr0OOS" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T15:28:20.026Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1nO0nzp73oCcBZab7aW_" version="24.6.5" type="github">
   <diagram name="Sivu-1" id="ExaNvQKYzJZNf2Spykjg">
-    <mxGraphModel dx="1653" dy="2212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2243" dy="2585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nX1czes53wwI01U9ZCOa-1" value="Introduction to AI&lt;div&gt;SELF-STUDY&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="321" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="251" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-4" target="C3OmPF9B5gbBKsYHGIpi-28">
           <mxGeometry relative="1" as="geometry" />
@@ -17,48 +17,48 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-4" value="Building AI&lt;div&gt;Chapters 1, 2 and 3&lt;/div&gt;&lt;div&gt;SELF-STUDY&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="321" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="251" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="C3OmPF9B5gbBKsYHGIpi-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="790" as="sourcePoint" />
+            <mxPoint x="310" y="800" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="nX1czes53wwI01U9ZCOa-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="110" as="sourcePoint" />
+            <mxPoint x="310" y="120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-11" target="C3OmPF9B5gbBKsYHGIpi-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-11" value="&lt;div&gt;Neural Networks - 3Blue1Brown&lt;/div&gt;&lt;div&gt;SELF-STUDY&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-13" target="C3OmPF9B5gbBKsYHGIpi-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-13" value="Building AI&lt;div&gt;Chapters 4 and 5&lt;/div&gt;&lt;div&gt;SELF-STUDY&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-28" target="C3OmPF9B5gbBKsYHGIpi-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-28" value="&lt;div&gt;Insinöörin matematiikka 2&lt;/div&gt;&lt;div&gt;Chain rule&lt;/div&gt;&lt;div&gt;Funktion suurin ja pienen arvo&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="266" y="720" width="230" height="80" as="geometry" />
+          <mxGeometry x="196" y="730" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="70" as="targetPoint" />
+            <mxPoint x="450" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="70" as="targetPoint" />
+            <mxPoint x="150" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-33" value="Setting up your&lt;div&gt;laptop environment&lt;/div&gt;&lt;div&gt;&lt;div&gt;CLASSROOM&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="30" width="120" height="80" as="geometry" />
+          <mxGeometry x="250" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-36" target="C3OmPF9B5gbBKsYHGIpi-45">
           <mxGeometry relative="1" as="geometry" />
@@ -71,103 +71,106 @@
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="620.0000000000005" as="targetPoint" />
+            <mxPoint x="250" y="630.0000000000005" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="390" />
-              <mxPoint x="250" y="390" />
-              <mxPoint x="250" y="620" />
+              <mxPoint x="260" y="400" />
+              <mxPoint x="180" y="400" />
+              <mxPoint x="180" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-36" value="Matrices, vectors&amp;nbsp;&lt;div&gt;and t&lt;span style=&quot;background-color: initial;&quot;&gt;ensors&lt;/span&gt;&lt;div&gt;CLASSROOM&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="321" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="251" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-38" value="&lt;div&gt;Anaconda&lt;/div&gt;numpy&lt;div&gt;pandas&lt;/div&gt;&lt;div&gt;matplotlib&lt;br&gt;&lt;/div&gt;&lt;div&gt;seaborn&lt;/div&gt;&lt;div&gt;sklearn&lt;/div&gt;&lt;div&gt;torch&lt;/div&gt;&lt;div&gt;torchvision&lt;br&gt;&lt;/div&gt;&lt;div&gt;torchaudio&lt;br&gt;&lt;/div&gt;&lt;div&gt;plotly&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-10" width="120" height="160" as="geometry" />
+          <mxGeometry x="450" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-39" value="VSC&lt;div&gt;Python&lt;/div&gt;&lt;div&gt;Jupyter&lt;/div&gt;&lt;div&gt;Git&lt;/div&gt;&lt;div&gt;GitHub&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="100" y="30" width="120" height="80" as="geometry" />
+          <mxGeometry x="30" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-40" value="&lt;div&gt;&lt;div&gt;CLASSROOM&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-180" width="120" height="80" as="geometry" />
+          <mxGeometry x="10" y="-150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-41" value="SELF-STUDY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-170" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-42" value="MATH TOPICS&amp;nbsp;&lt;div&gt;to review before continuing&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-180" width="170" height="80" as="geometry" />
+          <mxGeometry x="270" y="-150" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-45" value="numpy&lt;div&gt;pytorch&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="521" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="451" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-47" value="&lt;div&gt;Theory:&lt;/div&gt;Dot product&lt;div&gt;Matrix multiplication&lt;/div&gt;&lt;div&gt;Linear combination&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="90" y="290" width="151" height="80" as="geometry" />
+          <mxGeometry x="20" y="300" width="151" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-49" value="Opportunity to ask during Insinöörin matematiikka 2" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="521" y="580" width="120" height="80" as="geometry" />
+          <mxGeometry x="451" y="590" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="C3OmPF9B5gbBKsYHGIpi-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="441" y="220" as="sourcePoint" />
+            <mxPoint x="371" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-52" value="Opportunity to ask during Insinöörin matematiikka 2" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="521" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="451" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-53" value="&lt;div&gt;Calculus of Neural Networks:&lt;/div&gt;&lt;div&gt;gradient descent&lt;br&gt;&lt;/div&gt;&lt;div&gt;Chain rule&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="576" y="720" width="230" height="80" as="geometry" />
+          <mxGeometry x="506" y="730" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="C3OmPF9B5gbBKsYHGIpi-56">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="441" y="1040" as="sourcePoint" />
+            <mxPoint x="371" y="1050" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-56" value="Opportunity to ask during Insinöörin matematiikka 2" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="521" y="1000" width="120" height="80" as="geometry" />
+          <mxGeometry x="451" y="1010" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="C3OmPF9B5gbBKsYHGIpi-58">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="441" y="900" as="sourcePoint" />
+            <mxPoint x="371" y="910" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-58" value="Opportunity to ask during Insinöörin matematiikka 2" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="521" y="860" width="120" height="80" as="geometry" />
+          <mxGeometry x="451" y="870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-59" value="EXAM&lt;div&gt;in CLASSROOM&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-180" width="140" height="80" as="geometry" />
+          <mxGeometry x="440" y="-150" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-60" target="C3OmPF9B5gbBKsYHGIpi-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-60" value="1st Midterm Exam&lt;div&gt;CLASSROOM&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="311" y="430" width="140" height="80" as="geometry" />
+          <mxGeometry x="241" y="440" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-63" target="C3OmPF9B5gbBKsYHGIpi-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-63" value="2nd Midterm Exam or&amp;nbsp;&lt;div&gt;Final Exam&lt;div&gt;CLASSROOM&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="305.5" y="1150" width="149" height="80" as="geometry" />
+          <mxGeometry x="235.5" y="1160" width="149" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-69" target="C3OmPF9B5gbBKsYHGIpi-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-69" value="Do you want to study more about AI, ML and DL?&lt;div&gt;If there are enough interest,&amp;nbsp; the teacher is planning to create the following courses&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="1300" width="310" height="80" as="geometry" />
+          <mxGeometry x="155" y="1310" width="310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-71" target="C3OmPF9B5gbBKsYHGIpi-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-71" value="Data Analysis with Python&lt;div&gt;a practical introduction to data analysis&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="1443.5" width="310" height="60" as="geometry" />
+          <mxGeometry x="155" y="1453.5" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-75" target="C3OmPF9B5gbBKsYHGIpi-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-75" value="&lt;div&gt;Machine Learning with Python&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;a practical&amp;nbsp;&lt;/span&gt;and coding-focused&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; introduction to supervised machine learning&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="1563.5" width="290" height="80" as="geometry" />
+          <mxGeometry x="165" y="1573.5" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-77" value="Deep Learning with PyTorch&lt;div&gt;&amp;nbsp;a practical and coding-focused introduction to deep learning using the PyTorch framework&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="237.5" y="1683.5" width="285" height="70" as="geometry" />
+          <mxGeometry x="167.5" y="1693.5" width="285" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-85" value="Next steps" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-150" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
