@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T19:57:58.529Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wfqn0DeZICMluQBNRxsj" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T09:54:45.124Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="l_4b6mI1B-27_bj-IcP6" version="24.6.5" type="github">
   <diagram name="Sivu-1" id="ExaNvQKYzJZNf2Spykjg">
     <mxGraphModel dx="1308" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-36" value="Matrices, vectors&amp;nbsp;&lt;div&gt;and t&lt;span style=&quot;background-color: initial;&quot;&gt;ensors&lt;/span&gt;&lt;div&gt;CLASSROOM&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="251" y="300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-38" value="&lt;div&gt;Anaconda&lt;/div&gt;numpy&lt;div&gt;pandas&lt;/div&gt;&lt;div&gt;matplotlib&lt;br&gt;&lt;/div&gt;&lt;div&gt;seaborn&lt;/div&gt;&lt;div&gt;sklearn&lt;/div&gt;&lt;div&gt;torch&lt;/div&gt;&lt;div&gt;torchvision&lt;br&gt;&lt;/div&gt;&lt;div&gt;torchaudio&lt;br&gt;&lt;/div&gt;&lt;div&gt;plotly&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-38" value="&lt;div&gt;conda&lt;/div&gt;numpy&lt;div&gt;pandas&lt;/div&gt;&lt;div&gt;matplotlib&lt;br&gt;&lt;/div&gt;&lt;div&gt;seaborn&lt;/div&gt;&lt;div&gt;sklearn&lt;/div&gt;&lt;div&gt;torch&lt;/div&gt;&lt;div&gt;torchvision&lt;br&gt;&lt;/div&gt;&lt;div&gt;torchaudio&lt;br&gt;&lt;/div&gt;&lt;div&gt;plotly&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="450" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-39" value="VSC&lt;div&gt;Python&lt;/div&gt;&lt;div&gt;Jupyter&lt;/div&gt;&lt;div&gt;Git&lt;/div&gt;&lt;div&gt;GitHub&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -151,7 +151,7 @@
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-69" target="C3OmPF9B5gbBKsYHGIpi-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-69" value="Do you want to study more about AI, ML and DL?&lt;div&gt;If there is enough interest, the teacher might plan the following courses&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-69" value="Do you want to study more about AI, ML and DL?&lt;div&gt;If there is enough interested, the teacher might plan the following courses&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="158.5" y="1310" width="305" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-71" target="C3OmPF9B5gbBKsYHGIpi-75">
