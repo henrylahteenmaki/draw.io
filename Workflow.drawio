@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T18:43:32.186Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Z8Aq7dSsATzQ2CkelKzc" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T16:56:49.877Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Q6vauAUNwY8rJiy3fNO4" version="24.7.1" type="github">
   <diagram name="Sivu-1" id="ExaNvQKYzJZNf2Spykjg">
     <mxGraphModel dx="1570" dy="2160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="a22MIjJUTJKKrvTZ5Yfk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-38" target="a22MIjJUTJKKrvTZ5Yfk-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-38" value="&lt;div&gt;conda&lt;/div&gt;numpy&lt;div&gt;pandas&lt;/div&gt;&lt;div&gt;matplotlib&lt;br&gt;&lt;/div&gt;&lt;div&gt;seaborn&lt;/div&gt;&lt;div&gt;sklearn&lt;/div&gt;&lt;div&gt;torch&lt;/div&gt;&lt;div&gt;torchvision&lt;br&gt;&lt;/div&gt;&lt;div&gt;torchaudio&lt;br&gt;&lt;/div&gt;&lt;div&gt;plotly&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-38" value="&lt;div&gt;Anaconda&lt;/div&gt;numpy&lt;div&gt;pandas&lt;/div&gt;&lt;div&gt;matplotlib&lt;br&gt;&lt;/div&gt;&lt;div&gt;seaborn&lt;/div&gt;&lt;div&gt;sklearn&lt;/div&gt;&lt;div&gt;torch&lt;/div&gt;&lt;div&gt;torchvision&lt;br&gt;&lt;/div&gt;&lt;div&gt;torchaudio&lt;br&gt;&lt;/div&gt;&lt;div&gt;plotly&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="450" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-39" value="VSC&lt;div&gt;Python&lt;/div&gt;&lt;div&gt;Jupyter&lt;/div&gt;&lt;div&gt;Git&lt;/div&gt;&lt;div&gt;GitHub&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
