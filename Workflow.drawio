@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T18:09:03.601Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Ei3mwn0kifC3hhe9uIgl" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T18:27:01.867Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="nc694nsdschVXJakJEU3" version="24.7.1" type="github">
   <diagram name="Sivu-1" id="ExaNvQKYzJZNf2Spykjg">
     <mxGraphModel dx="1570" dy="2160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-45" value="numpy&lt;div&gt;pytorch&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="451" y="300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-47" value="&lt;div&gt;Theory:&lt;/div&gt;Dot product&lt;div&gt;Matrix multiplication&lt;/div&gt;&lt;div&gt;Linear combination&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="C3OmPF9B5gbBKsYHGIpi-47" value="&lt;div&gt;Theory and Exercises:&lt;/div&gt;&lt;div&gt;Linear combination&lt;br&gt;&lt;/div&gt;Dot product&lt;div&gt;Matrix multiplication&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="20" y="300" width="151" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-49" value="Opportunity to ask during Insinöörin matematiikka 2" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
