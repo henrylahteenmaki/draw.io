@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T18:27:37.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3KBWd9SEPNBByOk_bqp8" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Sivu-1" id="ExaNvQKYzJZNf2Spykjg">
-    <mxGraphModel dx="1570" dy="2160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-36" value="Matrices, vectors&amp;nbsp;&lt;div&gt;and t&lt;span style=&quot;background-color: initial;&quot;&gt;ensors&lt;/span&gt;&lt;div&gt;CLASSROOM&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="251" y="300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a22MIjJUTJKKrvTZ5Yfk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-38" target="a22MIjJUTJKKrvTZ5Yfk-4">
+        <mxCell id="a22MIjJUTJKKrvTZ5Yfk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="C3OmPF9B5gbBKsYHGIpi-38" target="a22MIjJUTJKKrvTZ5Yfk-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-38" value="&lt;div&gt;Anaconda&lt;/div&gt;numpy&lt;div&gt;pandas&lt;/div&gt;&lt;div&gt;matplotlib&lt;br&gt;&lt;/div&gt;&lt;div&gt;seaborn&lt;/div&gt;&lt;div&gt;sklearn&lt;/div&gt;&lt;div&gt;torch&lt;/div&gt;&lt;div&gt;torchvision&lt;br&gt;&lt;/div&gt;&lt;div&gt;torchaudio&lt;br&gt;&lt;/div&gt;&lt;div&gt;plotly&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -160,23 +160,36 @@
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="C3OmPF9B5gbBKsYHGIpi-71" target="C3OmPF9B5gbBKsYHGIpi-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YqLcY3zQFSSmUQPY9y-7-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-71" target="YqLcY3zQFSSmUQPY9y-7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-71" value="Data Analysis with Python&lt;div&gt;a practical introduction to data analysis&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="155" y="1453.5" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C3OmPF9B5gbBKsYHGIpi-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="C3OmPF9B5gbBKsYHGIpi-75" target="C3OmPF9B5gbBKsYHGIpi-77" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YqLcY3zQFSSmUQPY9y-7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C3OmPF9B5gbBKsYHGIpi-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1750" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-75" value="&lt;div&gt;Machine Learning with Python&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;a practical&amp;nbsp;&lt;/span&gt;and coding-focused&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; introduction to supervised machine learning&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="165" y="1573.5" width="290" height="80" as="geometry" />
+          <mxGeometry x="365" y="1570" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-77" value="Deep Learning with PyTorch&lt;div&gt;&amp;nbsp;a practical and coding-focused introduction to deep learning using the PyTorch framework&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="173.75" y="1693.5" width="272.5" height="70" as="geometry" />
+          <mxGeometry x="178.5" y="1754" width="272.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="C3OmPF9B5gbBKsYHGIpi-85" value="Next steps" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="-150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a22MIjJUTJKKrvTZ5Yfk-4" value="Why not Tensorflow or Keras? Tensorflow is cumbersome, PyTorch is easier to learn and to use. Keras is good if you want to try a deep learning model quickly. But it is more restrictive. If you want to be a professional deep learner, PyTorch is a better choice." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="a22MIjJUTJKKrvTZ5Yfk-4" value="Why not Tensorflow or Keras? Tensorflow is cumbersome, PyTorch is easier to learn and to use. Keras is good if you want to try a deep learning model quickly. But it is more restrictive. If you want to be a professional deep learner, PyTorch is a better choice." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="630" y="25" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YqLcY3zQFSSmUQPY9y-7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqLcY3zQFSSmUQPY9y-7-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="1750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YqLcY3zQFSSmUQPY9y-7-1" value="Mathematics of Machine Learning&lt;div&gt;a practical introduction to maths used in ML &amp;amp; DL&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1570" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
